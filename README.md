@@ -1,12 +1,12 @@
-# vscode-leostar-snippets
+# vscode-eonova-snippets
 
 ![Snippets](./res/demo.gif)
 
-<p align="center">leostar's vscode snippets🎞</p>
+<p align="center">eonova's vscode snippets🎞</p>
 
 ## Install
 
-[👉leostar-snippets](https://marketplace.visualstudio.com/items?itemName=leostar-tools.leostar-snippets)
+[👉eonova-snippets](https://marketplace.visualstudio.com/items?itemName=eonova.vscode-eonova-snippets)
 
 ## Snippets
 

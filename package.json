@@ -1,20 +1,20 @@
 {
-  "name": "vscode-leostar-snippets",
-  "displayName": "leostar-snippets",
-  "publisher": "leostar",
-  "version": "1.0.4",
+  "name": "vscode-eonova-snippets",
+  "displayName": "eonova-snippets",
+  "publisher": "eonova",
+  "version": "0.0.2",
   "private": true,
-  "packageManager": "pnpm@9.3.0",
-  "description": "leostar's vscode snippets",
-  "author": "LeoStar <hi@leostar.top>",
+  "packageManager": "pnpm@10.11.0",
+  "description": "eonova's vscode snippets",
+  "author": "Nova Eon <hi@eonova.me>",
   "license": "MIT",
-  "homepage": "https://github.com/ileostar/vscode-leostar-snippets#readme",
+  "homepage": "https://github.com/eonova/vscode-eonova-snippets#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ileostar/vscode-leostar-snippets"
+    "url": "https://github.com/eonova/vscode-eonova-snippets"
   },
   "bugs": {
-    "url": "https://github.com/ileostar/vscode-leostar-snippets/issues"
+    "url": "https://github.com/eonova/vscode-eonova-snippets/issues"
   },
   "keywords": [
     "vue 3",
